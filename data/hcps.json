@@ -1,0 +1,701 @@
+[
+  {
+    "id": "hcp_001",
+    "name": "Dr. Robert Davis",
+    "specialty": "Dermatology",
+    "practiceType": "Hospital system",
+    "location": "New York",
+    "yearsExperience": 9,
+    "expertise": [
+      "topical treatments",
+      "Therapy X",
+      "psoriasis"
+    ],
+    "bio": "Dermatology specialist with 9 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_002",
+    "name": "Dr. Robert Johnson",
+    "specialty": "Neurology",
+    "practiceType": "Private practice",
+    "location": "Ohio",
+    "yearsExperience": 4,
+    "expertise": [
+      "medication adherence",
+      "epilepsy",
+      "migraine",
+      "stroke prevention"
+    ],
+    "bio": "Neurology specialist with 4 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_003",
+    "name": "Dr. Robert Rodriguez",
+    "specialty": "Dermatology",
+    "practiceType": "Hospital system",
+    "location": "New York",
+    "yearsExperience": 13,
+    "expertise": [
+      "Therapy X",
+      "biologics"
+    ],
+    "bio": "Dermatology specialist with 13 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_004",
+    "name": "Dr. Jennifer Rodriguez",
+    "specialty": "Cardiology",
+    "practiceType": "Private practice",
+    "location": "Illinois",
+    "yearsExperience": 15,
+    "expertise": [
+      "heart failure",
+      "Therapy X",
+      "arrhythmia",
+      "prior authorization"
+    ],
+    "bio": "Cardiology specialist with 15 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_005",
+    "name": "Dr. Robert Patel",
+    "specialty": "Endocrinology",
+    "practiceType": "Hospital system",
+    "location": "Pennsylvania",
+    "yearsExperience": 21,
+    "expertise": [
+      "patient adherence",
+      "Therapy X"
+    ],
+    "bio": "Endocrinology specialist with 21 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_006",
+    "name": "Dr. Jennifer Rodriguez",
+    "specialty": "Neurology",
+    "practiceType": "Hospital system",
+    "location": "Pennsylvania",
+    "yearsExperience": 18,
+    "expertise": [
+      "Therapy X",
+      "migraine"
+    ],
+    "bio": "Neurology specialist with 18 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_007",
+    "name": "Dr. Robert Miller",
+    "specialty": "Neurology",
+    "practiceType": "Hospital system",
+    "location": "California",
+    "yearsExperience": 15,
+    "expertise": [
+      "Therapy X",
+      "migraine",
+      "epilepsy"
+    ],
+    "bio": "Neurology specialist with 15 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_008",
+    "name": "Dr. William Rodriguez",
+    "specialty": "Neurology",
+    "practiceType": "Community",
+    "location": "Texas",
+    "yearsExperience": 10,
+    "expertise": [
+      "migraine",
+      "epilepsy",
+      "stroke prevention",
+      "Therapy X"
+    ],
+    "bio": "Neurology specialist with 10 years of experience in community setting."
+  },
+  {
+    "id": "hcp_009",
+    "name": "Dr. William Patel",
+    "specialty": "Neurology",
+    "practiceType": "Community",
+    "location": "Texas",
+    "yearsExperience": 4,
+    "expertise": [
+      "epilepsy",
+      "medication adherence",
+      "Therapy X"
+    ],
+    "bio": "Neurology specialist with 4 years of experience in community setting."
+  },
+  {
+    "id": "hcp_010",
+    "name": "Dr. William Patel",
+    "specialty": "Endocrinology",
+    "practiceType": "Community",
+    "location": "California",
+    "yearsExperience": 2,
+    "expertise": [
+      "diabetes",
+      "Therapy X",
+      "thyroid",
+      "patient adherence"
+    ],
+    "bio": "Endocrinology specialist with 2 years of experience in community setting."
+  },
+  {
+    "id": "hcp_011",
+    "name": "Dr. Michael Johnson",
+    "specialty": "Neurology",
+    "practiceType": "Hospital system",
+    "location": "Texas",
+    "yearsExperience": 21,
+    "expertise": [
+      "Therapy X",
+      "stroke prevention",
+      "epilepsy"
+    ],
+    "bio": "Neurology specialist with 21 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_012",
+    "name": "Dr. Sarah Garcia",
+    "specialty": "Cardiology",
+    "practiceType": "Academic",
+    "location": "Pennsylvania",
+    "yearsExperience": 6,
+    "expertise": [
+      "Therapy X",
+      "arrhythmia",
+      "prior authorization"
+    ],
+    "bio": "Cardiology specialist with 6 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_013",
+    "name": "Dr. Michael Miller",
+    "specialty": "Dermatology",
+    "practiceType": "Academic",
+    "location": "Texas",
+    "yearsExperience": 29,
+    "expertise": [
+      "psoriasis",
+      "biologics",
+      "patient adherence"
+    ],
+    "bio": "Dermatology specialist with 29 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_014",
+    "name": "Dr. Michael Jones",
+    "specialty": "Dermatology",
+    "practiceType": "Hospital system",
+    "location": "Illinois",
+    "yearsExperience": 29,
+    "expertise": [
+      "patient adherence",
+      "Therapy X",
+      "topical treatments"
+    ],
+    "bio": "Dermatology specialist with 29 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_015",
+    "name": "Dr. Jennifer Williams",
+    "specialty": "Endocrinology",
+    "practiceType": "Private practice",
+    "location": "Florida",
+    "yearsExperience": 27,
+    "expertise": [
+      "Therapy X",
+      "diabetes",
+      "insulin therapy",
+      "patient adherence"
+    ],
+    "bio": "Endocrinology specialist with 27 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_016",
+    "name": "Dr. David Williams",
+    "specialty": "Endocrinology",
+    "practiceType": "Private practice",
+    "location": "Ohio",
+    "yearsExperience": 6,
+    "expertise": [
+      "diabetes",
+      "patient adherence",
+      "Therapy X"
+    ],
+    "bio": "Endocrinology specialist with 6 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_017",
+    "name": "Dr. Lisa Martinez",
+    "specialty": "Cardiology",
+    "practiceType": "Academic",
+    "location": "Michigan",
+    "yearsExperience": 9,
+    "expertise": [
+      "arrhythmia",
+      "patient access",
+      "Therapy X"
+    ],
+    "bio": "Cardiology specialist with 9 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_018",
+    "name": "Dr. Michael Brown",
+    "specialty": "Endocrinology",
+    "practiceType": "Private practice",
+    "location": "Ohio",
+    "yearsExperience": 6,
+    "expertise": [
+      "Therapy X",
+      "patient adherence"
+    ],
+    "bio": "Endocrinology specialist with 6 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_019",
+    "name": "Dr. Robert Brown",
+    "specialty": "Cardiology",
+    "practiceType": "Community",
+    "location": "Georgia",
+    "yearsExperience": 24,
+    "expertise": [
+      "patient access",
+      "hypertension",
+      "Therapy X",
+      "heart failure"
+    ],
+    "bio": "Cardiology specialist with 24 years of experience in community setting."
+  },
+  {
+    "id": "hcp_020",
+    "name": "Dr. James Patel",
+    "specialty": "Cardiology",
+    "practiceType": "Community",
+    "location": "Texas",
+    "yearsExperience": 11,
+    "expertise": [
+      "hypertension",
+      "patient access",
+      "Therapy X"
+    ],
+    "bio": "Cardiology specialist with 11 years of experience in community setting."
+  },
+  {
+    "id": "hcp_021",
+    "name": "Dr. Lisa Johnson",
+    "specialty": "Neurology",
+    "practiceType": "Private practice",
+    "location": "North Carolina",
+    "yearsExperience": 16,
+    "expertise": [
+      "Therapy X",
+      "epilepsy",
+      "stroke prevention"
+    ],
+    "bio": "Neurology specialist with 16 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_022",
+    "name": "Dr. Mary Jones",
+    "specialty": "Oncology",
+    "practiceType": "Community",
+    "location": "Texas",
+    "yearsExperience": 21,
+    "expertise": [
+      "Therapy X",
+      "patient adherence"
+    ],
+    "bio": "Oncology specialist with 21 years of experience in community setting."
+  },
+  {
+    "id": "hcp_023",
+    "name": "Dr. Robert Patel",
+    "specialty": "Oncology",
+    "practiceType": "Community",
+    "location": "Georgia",
+    "yearsExperience": 18,
+    "expertise": [
+      "Therapy X",
+      "immunotherapy",
+      "patient adherence"
+    ],
+    "bio": "Oncology specialist with 18 years of experience in community setting."
+  },
+  {
+    "id": "hcp_024",
+    "name": "Dr. Emily Miller",
+    "specialty": "Oncology",
+    "practiceType": "Academic",
+    "location": "California",
+    "yearsExperience": 18,
+    "expertise": [
+      "chemotherapy",
+      "side effect management",
+      "patient adherence"
+    ],
+    "bio": "Oncology specialist with 18 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_025",
+    "name": "Dr. David Miller",
+    "specialty": "Endocrinology",
+    "practiceType": "Academic",
+    "location": "California",
+    "yearsExperience": 2,
+    "expertise": [
+      "diabetes",
+      "insulin therapy",
+      "patient adherence"
+    ],
+    "bio": "Endocrinology specialist with 2 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_026",
+    "name": "Dr. Emily Miller",
+    "specialty": "Oncology",
+    "practiceType": "Academic",
+    "location": "North Carolina",
+    "yearsExperience": 6,
+    "expertise": [
+      "Therapy X",
+      "side effect management",
+      "immunotherapy"
+    ],
+    "bio": "Oncology specialist with 6 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_027",
+    "name": "Dr. Robert Garcia",
+    "specialty": "Oncology",
+    "practiceType": "Hospital system",
+    "location": "Georgia",
+    "yearsExperience": 26,
+    "expertise": [
+      "side effect management",
+      "Therapy X",
+      "chemotherapy",
+      "patient adherence",
+      "immunotherapy"
+    ],
+    "bio": "Oncology specialist with 26 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_028",
+    "name": "Dr. Lisa Patel",
+    "specialty": "Neurology",
+    "practiceType": "Academic",
+    "location": "New York",
+    "yearsExperience": 21,
+    "expertise": [
+      "Therapy X",
+      "stroke prevention"
+    ],
+    "bio": "Neurology specialist with 21 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_029",
+    "name": "Dr. Emily Martinez",
+    "specialty": "Endocrinology",
+    "practiceType": "Private practice",
+    "location": "New York",
+    "yearsExperience": 17,
+    "expertise": [
+      "insulin therapy",
+      "thyroid",
+      "Therapy X"
+    ],
+    "bio": "Endocrinology specialist with 17 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_030",
+    "name": "Dr. David Patel",
+    "specialty": "Oncology",
+    "practiceType": "Community",
+    "location": "New York",
+    "yearsExperience": 3,
+    "expertise": [
+      "side effect management",
+      "Therapy X",
+      "chemotherapy"
+    ],
+    "bio": "Oncology specialist with 3 years of experience in community setting."
+  },
+  {
+    "id": "hcp_031",
+    "name": "Dr. Emily Williams",
+    "specialty": "Cardiology",
+    "practiceType": "Hospital system",
+    "location": "North Carolina",
+    "yearsExperience": 17,
+    "expertise": [
+      "Therapy X",
+      "patient access",
+      "hypertension",
+      "arrhythmia",
+      "heart failure"
+    ],
+    "bio": "Cardiology specialist with 17 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_032",
+    "name": "Dr. William Brown",
+    "specialty": "Oncology",
+    "practiceType": "Private practice",
+    "location": "Georgia",
+    "yearsExperience": 17,
+    "expertise": [
+      "immunotherapy",
+      "side effect management",
+      "Therapy X"
+    ],
+    "bio": "Oncology specialist with 17 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_033",
+    "name": "Dr. Jennifer Patel",
+    "specialty": "Oncology",
+    "practiceType": "Academic",
+    "location": "Michigan",
+    "yearsExperience": 23,
+    "expertise": [
+      "side effect management",
+      "immunotherapy"
+    ],
+    "bio": "Oncology specialist with 23 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_034",
+    "name": "Dr. Sarah Patel",
+    "specialty": "Neurology",
+    "practiceType": "Private practice",
+    "location": "Michigan",
+    "yearsExperience": 15,
+    "expertise": [
+      "epilepsy",
+      "Therapy X",
+      "stroke prevention"
+    ],
+    "bio": "Neurology specialist with 15 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_035",
+    "name": "Dr. Emily Jones",
+    "specialty": "Neurology",
+    "practiceType": "Academic",
+    "location": "Ohio",
+    "yearsExperience": 7,
+    "expertise": [
+      "medication adherence",
+      "stroke prevention"
+    ],
+    "bio": "Neurology specialist with 7 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_036",
+    "name": "Dr. David Williams",
+    "specialty": "Cardiology",
+    "practiceType": "Hospital system",
+    "location": "Georgia",
+    "yearsExperience": 22,
+    "expertise": [
+      "prior authorization",
+      "Therapy X"
+    ],
+    "bio": "Cardiology specialist with 22 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_037",
+    "name": "Dr. Mary Jones",
+    "specialty": "Neurology",
+    "practiceType": "Hospital system",
+    "location": "California",
+    "yearsExperience": 25,
+    "expertise": [
+      "stroke prevention",
+      "epilepsy",
+      "migraine"
+    ],
+    "bio": "Neurology specialist with 25 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_038",
+    "name": "Dr. Sarah Williams",
+    "specialty": "Oncology",
+    "practiceType": "Hospital system",
+    "location": "Texas",
+    "yearsExperience": 6,
+    "expertise": [
+      "immunotherapy",
+      "chemotherapy",
+      "patient adherence"
+    ],
+    "bio": "Oncology specialist with 6 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_039",
+    "name": "Dr. Michael Rodriguez",
+    "specialty": "Neurology",
+    "practiceType": "Hospital system",
+    "location": "California",
+    "yearsExperience": 21,
+    "expertise": [
+      "stroke prevention",
+      "medication adherence"
+    ],
+    "bio": "Neurology specialist with 21 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_040",
+    "name": "Dr. Michael Jones",
+    "specialty": "Dermatology",
+    "practiceType": "Academic",
+    "location": "New York",
+    "yearsExperience": 12,
+    "expertise": [
+      "patient adherence",
+      "psoriasis",
+      "Therapy X"
+    ],
+    "bio": "Dermatology specialist with 12 years of experience in academic setting."
+  },
+  {
+    "id": "hcp_041",
+    "name": "Dr. Michael Miller",
+    "specialty": "Cardiology",
+    "practiceType": "Community",
+    "location": "Texas",
+    "yearsExperience": 15,
+    "expertise": [
+      "Therapy X",
+      "hypertension",
+      "prior authorization",
+      "patient access"
+    ],
+    "bio": "Cardiology specialist with 15 years of experience in community setting."
+  },
+  {
+    "id": "hcp_042",
+    "name": "Dr. Emily Jones",
+    "specialty": "Neurology",
+    "practiceType": "Hospital system",
+    "location": "New York",
+    "yearsExperience": 24,
+    "expertise": [
+      "Therapy X",
+      "medication adherence",
+      "epilepsy"
+    ],
+    "bio": "Neurology specialist with 24 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_043",
+    "name": "Dr. James Martinez",
+    "specialty": "Cardiology",
+    "practiceType": "Hospital system",
+    "location": "Pennsylvania",
+    "yearsExperience": 17,
+    "expertise": [
+      "patient access",
+      "Therapy X"
+    ],
+    "bio": "Cardiology specialist with 17 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_044",
+    "name": "Dr. James Davis",
+    "specialty": "Neurology",
+    "practiceType": "Community",
+    "location": "Florida",
+    "yearsExperience": 8,
+    "expertise": [
+      "Therapy X",
+      "medication adherence",
+      "epilepsy"
+    ],
+    "bio": "Neurology specialist with 8 years of experience in community setting."
+  },
+  {
+    "id": "hcp_045",
+    "name": "Dr. James Brown",
+    "specialty": "Oncology",
+    "practiceType": "Private practice",
+    "location": "Georgia",
+    "yearsExperience": 2,
+    "expertise": [
+      "patient adherence",
+      "Therapy X",
+      "side effect management"
+    ],
+    "bio": "Oncology specialist with 2 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_046",
+    "name": "Dr. James Miller",
+    "specialty": "Dermatology",
+    "practiceType": "Community",
+    "location": "California",
+    "yearsExperience": 10,
+    "expertise": [
+      "patient adherence",
+      "psoriasis"
+    ],
+    "bio": "Dermatology specialist with 10 years of experience in community setting."
+  },
+  {
+    "id": "hcp_047",
+    "name": "Dr. Michael Patel",
+    "specialty": "Endocrinology",
+    "practiceType": "Private practice",
+    "location": "Illinois",
+    "yearsExperience": 23,
+    "expertise": [
+      "diabetes",
+      "insulin therapy",
+      "Therapy X",
+      "thyroid",
+      "patient adherence"
+    ],
+    "bio": "Endocrinology specialist with 23 years of experience in private practice setting."
+  },
+  {
+    "id": "hcp_048",
+    "name": "Dr. James Williams",
+    "specialty": "Oncology",
+    "practiceType": "Hospital system",
+    "location": "Michigan",
+    "yearsExperience": 28,
+    "expertise": [
+      "Therapy X",
+      "immunotherapy"
+    ],
+    "bio": "Oncology specialist with 28 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_049",
+    "name": "Dr. David Williams",
+    "specialty": "Oncology",
+    "practiceType": "Hospital system",
+    "location": "Florida",
+    "yearsExperience": 20,
+    "expertise": [
+      "chemotherapy",
+      "patient adherence"
+    ],
+    "bio": "Oncology specialist with 20 years of experience in hospital system setting."
+  },
+  {
+    "id": "hcp_050",
+    "name": "Dr. Robert Williams",
+    "specialty": "Oncology",
+    "practiceType": "Private practice",
+    "location": "Texas",
+    "yearsExperience": 2,
+    "expertise": [
+      "chemotherapy",
+      "patient adherence",
+      "Therapy X"
+    ],
+    "bio": "Oncology specialist with 2 years of experience in private practice setting."
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "resp_1",
+    "questionId": "demo_question_1",
+    "hcpId": "hcp_004",
+    "response": "At our practice, we've found that submitting additional clinical documentation helps with prior authorization for Therapy X about 60% of the time.",
+    "topics": [
+      "patient access",
+      "prior authorization",
+      "Therapy X",
+      "heart failure"
+    ]
+  },
+  {
+    "id": "resp_2",
+    "questionId": "demo_question_1",
+    "hcpId": "hcp_012",
+    "response": "We rely heavily on our practice's access team to navigate insurance barriers; they've successfully appealed denials for Therapy X in many cases.",
+    "topics": [
+      "patient access",
+      "prior authorization",
+      "Therapy X",
+      "arrhythmia"
+    ]
+  },
+  {
+    "id": "resp_3",
+    "questionId": "demo_question_1",
+    "hcpId": "hcp_017",
+    "response": "I've switched to prescribing alternative therapies that are easier to get covered when patients struggle with Therapy X coverage.",
+    "topics": [
+      "patient access",
+      "prior authorization",
+      "Therapy X",
+      "arrhythmia"
+    ]
+  },
+  {
+    "id": "resp_4",
+    "questionId": "demo_question_1",
+    "hcpId": "hcp_019",
+    "response": "In my experience, patient assistance programs from the manufacturer have been crucial for patients who can't afford Therapy X despite insurance approval.",
+    "topics": [
+      "patient access",
+      "prior authorization",
+      "Therapy X",
+      "hypertension"
+    ]
+  },
+  {
+    "id": "resp_5",
+    "questionId": "demo_question_1",
+    "hcpId": "hcp_020",
+    "response": "We've implemented a standardized workflow for prior authorization that reduces turnaround time from weeks to days.",
+    "topics": [
+      "patient access",
+      "prior authorization",
+      "Therapy X",
+      "hypertension"
+    ]
+  },
+  {
+    "id": "resp_6",
+    "questionId": "demo_question_1",
+    "hcpId": "hcp_031",
+    "response": "I tell patients to expect delays and set up bridging therapy while we work on the prior authorization for Therapy X.",
+    "topics": [
+      "patient access",
+      "prior authorization",
+      "Therapy X",
+      "hypertension"
+    ]
+  },
+  {
+    "id": "resp_7",
+    "questionId": "demo_question_1",
+    "hcpId": "hcp_036",
+    "response": "Our hospital system has a dedicated specialty pharmacy that handles all Therapy X paperwork, which has improved access significantly.",
+    "topics": [
+      "patient access",
+      "prior authorization",
+      "Therapy X"
+    ]
+  },
+  {
+    "id": "resp_8",
+    "questionId": "demo_question_1",
+    "hcpId": "hcp_041",
+    "response": "I've found that peer-to-peer calls with insurance medical directors often overturn denials for Therapy X.",
+    "topics": [
+      "patient access",
+      "prior authorization",
+      "Therapy X",
+      "hypertension"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+.env*
+*.log
+response.json
+AGENT.md
+AGENTS.md
+CLAUDE.md
+tests
+.git

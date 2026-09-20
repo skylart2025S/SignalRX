@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SignalRx
 
-## Getting Started
+A healthcare peer-experience workspace built with Next.js. Ask a health-related practice question, explore synthetic peer perspectives, and inspect the source responses behind a network summary.
 
-First, run the development server:
+This prototype uses synthetic HCP and response data and is not intended for production clinical use.
 
-```bash
+## Local development
+
+```sh
+npm ci
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Optionally configure `OPENAI_API_KEY` in `.env.local` for model-generated peer experiences and summaries. Without a key, the app uses topic-based synthetic examples. Never expose this key through a `NEXT_PUBLIC_` variable.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Validation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```sh
+npm run build
+npx tsx --test tests/peer-relevance.test.ts
+```
 
-## Learn More
+## Vercel hosting
 
-To learn more about Next.js, take a look at the following resources:
+```sh
+npx vercel login
+npx vercel --prod
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Select the Next.js framework and the project root. The API's synthetic profile dataset is included in its server bundle. Local environment files and logs are excluded from upload.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+To enable model-generated responses, add `OPENAI_API_KEY` as a server-side Production environment variable in Vercel, then redeploy. The deployed app also works without it using the synthetic fallback.
